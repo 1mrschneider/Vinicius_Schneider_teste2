@@ -1,2 +1,2 @@
-# Vinicius_Schneider_teste2
- O presente código foi feito em C e inverte os caracteres de um string..
+# Inverte os caracteres de uma string
+ O presente código foi feito em C e inverte os caracteres de uma string.
